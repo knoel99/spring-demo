@@ -54,3 +54,6 @@ build/
 # Mac specific
 .DS_Store
 mvnw*
+
+# Include schema.sql
+!src/main/resources/schema.sql
